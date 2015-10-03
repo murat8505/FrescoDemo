@@ -36,6 +36,17 @@ The photos is from
 
 <p><a href="https://github.com/koral--/android-gif-drawable">android-gif-drawable</a>
 
+
+
+<p><a href="https://github.com/murat8505/fresco">fresco</a>
+
+<p><a href="https://github.com/murat8505/cheesesquare">cheesesquare</a>
+
+<p><a href="https://github.com/murat8505/PhotoView">PhotoView</a>
+
+<p><a href="https://github.com/murat8505/subsampling-scale-image-view">subsampling-scale-image-view</a>
+
+<p><a href="https://github.com/murat8505/android-gif-drawable">android-gif-drawable</a>
 # License
 
 Copyright 2013 06peng
